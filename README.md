@@ -196,4 +196,8 @@ As you use the app:
 ##  Contributing
 
 Contributions are welcome!\
-If you have suggestions for improvements or find any bugs, feel free to [open an issue](https://github.com/karanpraja902/Agentic-Banking-App) or submit a pull request.
+If you have suggestions for improvements or find any bugs, feel free to [open an issue](https://github.com/karanpraja902/Agentic-Banking-App/issues) or submit a pull request.
+
+## 👤 Author
+
+**Karan Prajapat** — [@karanpraja902](https://github.com/karanpraja902)

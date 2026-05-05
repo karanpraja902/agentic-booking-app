@@ -2,6 +2,7 @@
   "name": "ai-banking-app",
   "private": true,
   "version": "0.0.0",
+  "author": "Karan Prajapat <https://github.com/karanpraja902>",
   "type": "module",
   "scripts": {
     "dev": "vite",
